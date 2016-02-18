@@ -9,10 +9,10 @@ public class Constant {
 	public static final int SCROLL_SPEED_INCREASING = 100;
 	
 	// after rotating, make the next pages smaller than current page by scaling
-	public static final float SCALE_FACTOR = 0.70f;
+	public static final float SCALE_FACTOR = 0.75f;
 	
 	// approximate value
-	public static final int PAGE_TRANSLATE_X = 1350;
+	public static final int PAGE_TRANSLATE_X = 1000;
 	
 	// after rotating, move page to left margin of screen, distant based on rotating degree
 	public static final int PAGE_TRANSLATE_X_AFTER_ROTATING = 350; 

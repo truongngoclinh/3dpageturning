@@ -2,10 +2,11 @@ package com.smb.pager;
 
 import com.smb.utils.Constant;
 import com.smb.controller.MainActivity;
-
+import android.annotation.SuppressLint;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
+@SuppressLint("NewApi")
 public class MyPageTransformer implements ViewPager.PageTransformer {
 
 	@Override
@@ -22,7 +23,7 @@ public class MyPageTransformer implements ViewPager.PageTransformer {
 			}
 		} else if (position > 0) {
 			if (Constant.ANIMATION_STATE) {
-				float trX = MainActivity.mScreenWidth * position - position * 80;
+				float trX = MainActivity.mScreenWidth * position - position * 40;
 				view.setTranslationX(-trX);
 			} else {
 				float scaleFactor = Constant.SCALE_FACTOR - 0.01f * (position);
