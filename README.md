@@ -4,4 +4,4 @@ It was just implemented on 1920x1080 (xxhdpi) (Note 3 sample) resolution. I will
 
 ### See the demo
 
-![demo](https://cloud.githubusercontent.com/assets/13033746/13117547/fed59826-d5d2-11e5-8fd9-752e4362b218.png) (https://www.youtube.com/watch?v=Ud6KRz3p5vs)
+![demo](https://gyazo.com/cfa228a18fe4438ceaaf48b8f3cc25ce) (https://www.youtube.com/watch?v=Ud6KRz3p5vs)
