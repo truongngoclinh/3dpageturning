@@ -4,4 +4,4 @@ It was just implemented on 1920x1080 (xxhdpi) (Note 3 sample) resolution. I will
 
 ### See the demo
 
-![demo](https://cloud.githubusercontent.com/assets/13033746/13228318/e46940ce-d9cd-11e5-857f-af7475d556ff.png) (https://www.youtube.com/watch?v=Ud6KRz3p5vs)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ud6KRz3p5vs/0.jpg)](http://www.youtube.com/watch?v=Ud6KRz3p5vs)
